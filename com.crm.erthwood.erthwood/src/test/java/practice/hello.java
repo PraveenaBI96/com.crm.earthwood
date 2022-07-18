@@ -7,6 +7,7 @@ public class hello {
 
 		System.out.println("hii hello");
 		System.out.println("change done by nikhil");
+		System.out.println("1");
 	}
 
 }

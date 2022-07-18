@@ -7,5 +7,6 @@ public class demo {
 public void newupdate()
 {
 	System.out.println("hello");
+	System.out.println(" 2");
 }
 }
